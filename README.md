@@ -1,6 +1,6 @@
 # CB_2514
 
-CY P06 24 06 - Spatial Distribution - BIB Breathes
+## CY P06 24 06 - Spatial Distribution - BIB Breathes
 
 By understanding how health problems are distributed across a city, we can identify areas where more people are suffering from poor health. When we combine this information with maps showing the distribution of environmental factors or deprivation, we can use this information to help develop research questions to better understand how the environment might affect health.
 
